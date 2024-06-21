@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LearningApp_azure.props" />
+</Project>
